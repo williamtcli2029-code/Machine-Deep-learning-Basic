@@ -9,15 +9,15 @@ My personal repository for learning Machine Learning and Deep Learning with Pyth
 * **Machine Learning & Deep Learning:** Scikit-Learn (6,7), PyTorch (8)
 
 ## 📚 Learning Progress
-- [y] Intro to Programming *(Kaggle)* (1)
-- [y] Basic Java *(Kaggle)* (2)
-- [y] NumPy Fundamentals (2.5)
-- [k] Pandas *(Kaggle)* (3)
-- [x] Data Visualization *(Kaggle)* (4)
-- [x] Data Cleaning *(Kaggle)* (5)
-- [x] Intro to Machine Learning *(Kaggle)* (6)
-- [x] Intermediate Machine Learning *(Kaggle)* (7)
-- [x] Deep Learning with PyTorch *(In Progress)* (8)
+- [x] Intro to Programming *(Kaggle)* (1)
+- [x] Basic Java *(Kaggle)* (2)
+- [x] NumPy Fundamentals (2.5)
+- [] Pandas *(Kaggle)* (3)
+- [] Data Visualization *(Kaggle)* (4)
+- [] Data Cleaning *(Kaggle)* (5)
+- [] Intro to Machine Learning *(Kaggle)* (6)
+- [] Intermediate Machine Learning *(Kaggle)* (7)
+- [] Deep Learning with PyTorch *(In Progress)* (8)
 ......
 
 ## Repository Structure
@@ -27,4 +27,4 @@ My personal repository for learning Machine Learning and Deep Learning with Pyth
 * `04-pytorch/` — Neural networks and deep learning experiments
 
 ## Current Focus
-Machine Learning!!!
+Pandas
