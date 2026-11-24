@@ -12,12 +12,12 @@ My personal repository for learning Machine Learning and Deep Learning with Pyth
 - [x] Intro to Programming *(Kaggle)* (1)
 - [x] Basic Java *(Kaggle)* (2)
 - [x] NumPy Fundamentals (2.5)
-- [] Pandas *(Kaggle)* (3)
-- [] Data Visualization *(Kaggle)* (4)
-- [] Data Cleaning *(Kaggle)* (5)
-- [] Intro to Machine Learning *(Kaggle)* (6)
-- [] Intermediate Machine Learning *(Kaggle)* (7)
-- [] Deep Learning with PyTorch *(In Progress)* (8)
+- [ ] Pandas *(Kaggle)* (3)
+- [ ] Data Visualization *(Kaggle)* (4)
+- [ ] Data Cleaning *(Kaggle)* (5)
+- [ ] Intro to Machine Learning *(Kaggle)* (6)
+- [ ] Intermediate Machine Learning *(Kaggle)* (7)
+- [ ] Deep Learning with PyTorch *(In Progress)* (8)
 ......
 
 ## Repository Structure
