@@ -20,11 +20,16 @@ My personal repository for learning Machine Learning and Deep Learning with Pyth
 - [ ] Deep Learning with PyTorch *(In Progress)* (8)
 ......
 
-## Repository Structure
-* `01-data-analysis/` — NumPy, Pandas, and data cleaning practice notebooks
-* `02-visualization/` — Matplotlib and Seaborn charts
-* `03-classical-ml/` — Scikit-Learn models and Kaggle competition exercises
-* `04-pytorch/` — Neural networks and deep learning experiments
+## 📂 Repository Structure
+* `1. Intro to Programming/` — Programming fundamentals and logic exercises *(Kaggle)*
+* **[`2. Python Foundation/`](./2.%20Python%20Foundation/)** — Core Python syntax and foundational notes for ML
+* **[`2.5. NumPy/`](./2.5.%20NumPy/)** — Array operations and quick-reference cheat sheet *(AI-assisted)*
+* `3. Pandas/` — DataFrames, filtering, and data manipulation practice *(Kaggle)*
+* `4. Data Visualization/` — Charts and exploratory plots with Matplotlib & Seaborn *(Kaggle)*
+* `5. Data Cleaning/` — Handling missing values, scaling, and preprocessing *(Kaggle)*
+* `6. Intro to Machine Learning/` — Decision trees, model validation, and first ML models *(Kaggle)*
+* `7. Intermediate Machine Learning/` — Pipelines, cross-validation, XGBoost, and feature engineering *(Kaggle)*
+* `8. Deep Learning with PyTorch/` — Tensors, autograd, and neural network implementations
 
 ## Current Focus
 Pandas
