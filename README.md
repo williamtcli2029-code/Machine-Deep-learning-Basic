@@ -6,18 +6,18 @@ My personal repository for learning Machine Learning and Deep Learning with Pyth
 * **Languages:** Python (2)
 * **Data Manipulation:** NumPy (2.5), Pandas (3)
 * **Data Visualization:** Matplotlib (Seaborn?) (4)
-* **Machine Learning & Deep Learning:** Scikit-Learn (6,7), PyTorch(8)
+* **Machine Learning & Deep Learning:** Scikit-Learn (6,7), PyTorch (8)
 
 ## 📚 Learning Progress
 - [y] Intro to Programming *(Kaggle)* (1)
-- [x] Basic Java *(Kaggle)* (2)
-- [x] NumPy Fundamentals (2.5)
-- [x] Pandas *(Kaggle)* (3)
+- [y] Basic Java *(Kaggle)* (2)
+- [y] NumPy Fundamentals (2.5)
+- [k] Pandas *(Kaggle)* (3)
 - [x] Data Visualization *(Kaggle)* (4)
 - [x] Data Cleaning *(Kaggle)* (5)
 - [x] Intro to Machine Learning *(Kaggle)* (6)
 - [x] Intermediate Machine Learning *(Kaggle)* (7)
-- [ ] Deep Learning with PyTorch *(In Progress)* (8)
+- [x] Deep Learning with PyTorch *(In Progress)* (8)
 ......
 
 ## Repository Structure
