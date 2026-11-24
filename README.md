@@ -21,7 +21,7 @@ My personal repository for learning Machine Learning and Deep Learning with Pyth
 ......
 
 ## 📂 Repository Structure
-* `1. Intro to Programming/` — Programming fundamentals and logic exercises *(Kaggle)*
+* **[`1. Intro to Programming/`](./1.%20Intro%20to%20Programming/)** — Programming fundamentals and logic exercises *(Kaggle)*
 * **[`2. Python Foundation/`](./2.%20Python%20Foundation/)** — Core Python syntax and foundational notes for ML
 * **[`2.5. NumPy/`](./2.5.%20NumPy/)** — Array operations and quick-reference cheat sheet *(AI-assisted)*
 * `3. Pandas/` — DataFrames, filtering, and data manipulation practice *(Kaggle)*
