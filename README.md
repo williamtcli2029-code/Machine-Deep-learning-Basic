@@ -3,21 +3,22 @@
 My personal repository for learning Machine Learning and Deep Learning with Python—containing course exercises, notes, data experiments, and PyTorch implementations.
 
 ## 🛠 Tech Stack & Skills
-* **Languages:** Python
-* **Data Manipulation:** NumPy, Pandas
-* **Data Visualization:** Matplotlib (Seaborn?)
-* **Machine Learning & Deep Learning:** Scikit-Learn, PyTorch
+* **Languages:** Python (2)
+* **Data Manipulation:** NumPy (2.5), Pandas (3)
+* **Data Visualization:** Matplotlib (Seaborn?) (4)
+* **Machine Learning & Deep Learning:** Scikit-Learn (6,7), PyTorch(8)
 
 ## 📚 Learning Progress
-- [x] Intro to Programming *(Kaggle)*
-- [x] Basic Java *(Kaggle)*
-- [x] NumPy Fundamentals
-- [x] Pandas *(Kaggle)*
-- [x] Data Visualization *(Kaggle)*
-- [x] Data Cleaning *(Kaggle)*
-- [x] Intro to Machine Learning *(Kaggle)*
-- [x] Intermediate Machine Learning *(Kaggle)*
-- [ ] Deep Learning with PyTorch *(In Progress)*
+- [y] Intro to Programming *(Kaggle)* (1)
+- [x] Basic Java *(Kaggle)* (2)
+- [x] NumPy Fundamentals (2.5)
+- [x] Pandas *(Kaggle)* (3)
+- [x] Data Visualization *(Kaggle)* (4)
+- [x] Data Cleaning *(Kaggle)* (5)
+- [x] Intro to Machine Learning *(Kaggle)* (6)
+- [x] Intermediate Machine Learning *(Kaggle)* (7)
+- [ ] Deep Learning with PyTorch *(In Progress)* (8)
+......
 
 ## Repository Structure
 * `01-data-analysis/` — NumPy, Pandas, and data cleaning practice notebooks
@@ -26,4 +27,4 @@ My personal repository for learning Machine Learning and Deep Learning with Pyth
 * `04-pytorch/` — Neural networks and deep learning experiments
 
 ## Current Focus
-LEARN PYTHON!!!
+Machine Learning!!!
