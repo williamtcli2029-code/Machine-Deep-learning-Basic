@@ -12,7 +12,7 @@ My personal repository for self-studying Machine Learning and Deep Learning with
 - [x] Intro to Programming *(Kaggle)* (1)
 - [x] Basic Java *(Kaggle)* (2)
 - [x] NumPy Fundamentals (2.5)
-- [ ] Pandas *(Kaggle)* (3)
+- [x] Pandas *(Kaggle)* (3)
 - [ ] Data Visualization *(Kaggle)* (4)
 - [ ] Data Cleaning *(Kaggle)* (5)
 - [ ] Intro to Machine Learning *(Kaggle)* (6)
