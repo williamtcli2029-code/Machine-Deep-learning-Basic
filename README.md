@@ -1,6 +1,6 @@
 # Machine & Deep Learning Basics
 
-My personal repository for learning Machine Learning and Deep Learning with Python—containing course exercises, notes, data experiments, and PyTorch implementations.
+My personal repository for self-studying Machine Learning and Deep Learning with Python—containing course exercises, notes, data experiments, and PyTorch implementations.
 
 ## 🛠 Tech Stack & Skills
 * **Languages:** Python (2)
