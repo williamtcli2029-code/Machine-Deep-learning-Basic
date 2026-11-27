@@ -13,8 +13,8 @@ My personal repository for self-studying Machine Learning and Deep Learning with
 - [x] Basic Java *(Kaggle)* (2)
 - [x] NumPy Fundamentals (2.5)
 - [x] Pandas *(Kaggle)* (3)
-- [ ] Data Visualization *(Kaggle)* (4)
-- [ ] Data Cleaning *(Kaggle)* (5)
+- [x] Data Visualization *(Kaggle)* (4)
+- [x] Data Cleaning *(Kaggle)* (5)
 - [ ] Intro to Machine Learning *(Kaggle)* (6)
 - [ ] Intermediate Machine Learning *(Kaggle)* (7)
 - [ ] Deep Learning with PyTorch *(In Progress)* (8)
@@ -24,7 +24,7 @@ My personal repository for self-studying Machine Learning and Deep Learning with
 * **[`1. Intro to Programming/`](./1.%20Intro%20to%20Programming/)** — Programming fundamentals and logic exercises *(Kaggle)*
 * **[`2. Python Foundation/`](./2.%20Python%20Foundation/)** — Core Python syntax and foundational notes for ML
 * **[`2.5. NumPy/`](./2.5.%20NumPy/)** — Array operations and quick-reference cheat sheet *(AI-assisted)*
-* `3. Pandas/` — DataFrames, filtering, and data manipulation practice *(Kaggle)*
+* **[`3. Pandas/`](./3.%20Pandas/)** — DataFrames, filtering, and data manipulation practice *(Kaggle)*
 * `4. Data Visualization/` — Charts and exploratory plots with Matplotlib & Seaborn *(Kaggle)*
 * `5. Data Cleaning/` — Handling missing values, scaling, and preprocessing *(Kaggle)*
 * `6. Intro to Machine Learning/` — Decision trees, model validation, and first ML models *(Kaggle)*
