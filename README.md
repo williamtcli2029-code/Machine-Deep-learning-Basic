@@ -25,7 +25,7 @@ My personal repository for self-studying Machine Learning and Deep Learning with
 * **[`2. Python Foundation/`](./2.%20Python%20Foundation/)** — Core Python syntax and foundational notes for ML
 * **[`2.5. NumPy/`](./2.5.%20NumPy/)** — Array operations and quick-reference cheat sheet *(AI-assisted)*
 * **[`3. Pandas/`](./3.%20Pandas/)** — DataFrames, filtering, and data manipulation practice *(Kaggle)*
-* `4. Data Visualization/` — Charts and exploratory plots with Matplotlib & Seaborn *(Kaggle)*
+* **[`4. Data Visualization/`](./4.%20Data%20Visualization/)** — Charts and exploratory plots with Matplotlib & Seaborn *(Kaggle)*
 * `5. Data Cleaning/` — Handling missing values, scaling, and preprocessing *(Kaggle)*
 * `6. Intro to Machine Learning/` — Decision trees, model validation, and first ML models *(Kaggle)*
 * `7. Intermediate Machine Learning/` — Pipelines, cross-validation, XGBoost, and feature engineering *(Kaggle)*
