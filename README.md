@@ -7,6 +7,8 @@ My personal repository for self-studying Machine Learning and Deep Learning with
 * **Data Manipulation:** NumPy (2.5), Pandas (3)
 * **Data Visualization:** Matplotlib (Seaborn?) (4)
 * **Machine Learning & Deep Learning:** Scikit-Learn (6,7), PyTorch (8)
+* **Math** Partial MVC (MIT 18.02SC), Whole Linear Algebra (MIT 18.06SC)
+* **Adittional Reading Materials** Intro to statistical learning, Dive into Deep Learning (d2l.ai)
 
 ## 📚 Learning Progress
 - [x] Intro to Programming *(Kaggle)* (1)
@@ -17,7 +19,10 @@ My personal repository for self-studying Machine Learning and Deep Learning with
 - [x] Data Cleaning *(Kaggle)* (5)
 - [ ] Intro to Machine Learning *(Kaggle)* (6)
 - [ ] Intermediate Machine Learning *(Kaggle)* (7)
-- [ ] Deep Learning with PyTorch *(In Progress)* (8)
+- [ ] MIT 18.02SC P1,P2,P3.A
+- [ ] MIT 18.06SC ALL
+- [ ] Intro to statistical Learning python edition
+- [ ] Deep learning with pytorch d2l.ai
 ......
 
 ## 📂 Repository Structure
